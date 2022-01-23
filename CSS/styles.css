@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+}
+
+img {
+    background-color: red;
+}
+
+header {
+    align-items: center;
+    justify-content: space-between;
+}
+
+h2 {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-btn {
+    border-radius: none;
+    border: none;
+    padding: 8px;
+}
