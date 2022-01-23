@@ -1,3 +1,7 @@
+body {
+    width: 100%;
+}
+
 .container {
     display: flex;
 }
@@ -7,8 +11,7 @@ img {
 }
 
 header {
-    align-items: center;
-    justify-content: space-between;
+    width: 100%;
 }
 
 h2 {
@@ -21,4 +24,8 @@ h2 {
     border-radius: none;
     border: none;
     padding: 8px;
+}
+
+nav {
+    justify-content: space-between;
 }
