@@ -42,6 +42,7 @@ nav {
     justify-content: space-between;
     height: 30px;
     width: 75%;
+    /*also tried margin: 0 auto; here and that didn't center it either */
     background-color: lightblue;
     justify-self: center;
     align-self: flex-start;
