@@ -35,13 +35,14 @@ h2 {
     border: none;
     padding: 8px;
     margin: 0px 15px;
-    flex: 1 1 0%;
+    flex: 1;
 }
 
 nav {
     justify-content: space-between;
     height: 30px;
-    width: 100%;
+    width: 75%;
+    margin: 0 auto;
     background-color: lightblue;
     align-self: flex-start;
 }
