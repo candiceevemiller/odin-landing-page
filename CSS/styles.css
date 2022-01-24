@@ -42,7 +42,7 @@ nav {
     justify-content: space-between;
     height: 30px;
     width: 75%;
-    margin: 0 auto;
     background-color: lightblue;
+    justify-self: center;
     align-self: flex-start;
 }
